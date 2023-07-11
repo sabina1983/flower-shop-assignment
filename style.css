@@ -5,9 +5,7 @@
     margin-top: 100px;
     margin-right: 972px;
     margin-left: 240px;
-   
     /*margime: 197px 972px 365px 240px;*/
-    
 #first-part{
     margin: 100px;
 }
@@ -17,16 +15,6 @@
 .Shop{
     margin: 32px;
     padding: 20px 43px;
-
-}
-.pink{
-    background-color: #d58597;
-}
-.flower{
-
-}
-.tree{
-
 }
 header{
     display: flex;
@@ -41,7 +29,6 @@ header{
 }
 header{
     background-color:  rgba(229, 84, 115, 0.10);
-
 }
 button{
     background-color: #E55473;
@@ -58,7 +45,6 @@ button{
 }
 #second-paragraph{
     text-align: center;
-   
 }
 .Pink{
     background-color: #d58597;
@@ -84,13 +70,10 @@ button{
     border-radius: 50% 50% 0 0;
     padding: 30px 20px 0;
 }
-
 .three-images p{
     text-align: center;
     text-decoration: underline;
 }
-
-
 .three-images {
     display: flex;
     gap: 20px;
@@ -99,11 +82,8 @@ button{
 #third-part img{
     width: 50px;
     height: 50px;
-    
     margin:0 auto;
-    
-    
-}
+    }
 #third-part{
     display: flex;
     gap: 90px;
@@ -111,15 +91,9 @@ button{
     padding: 40px;
     text-align: center;
 }
-
-
-
 .three-images p{
  text-align: center;
  text-decoration: underline;
 }
 
-/*#pink{
-    display: inline;
-    margin: 0;
-}
+
