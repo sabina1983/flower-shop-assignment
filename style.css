@@ -1,6 +1,6 @@
 /*nav related style*/
 Nav{
-   /* font-size: 30px;
+   font-size: 30px; 
     display: flex;
     margin-top: 100px;
     margin-right: 972px;
@@ -8,6 +8,9 @@ Nav{
    
     /*margime: 197px 972px 365px 240px;*/
     
+}
+#first-part{
+    margin: 100px;
 }
 
 .Shop{
@@ -46,27 +49,37 @@ button{
     text-align: center;
    
 }
-.Pink Flower Tree{
-    margine: 20px center;
+#Pink{
+    margin: 20px center;
 }
-#second-1{
+.second-1{
     background-color: rgb(237, 191, 199);
     width: 310px;
     height: 428px;
     margin: relative;
-    border-radius: 25%;
+    border-radius: 50% 50% 0 0;
+    padding: 30px 20px 0;
     
 
 }
-#second-2{
-    background-color: rgb(165, 228, 207);
-    width: 310px;
-    height: 428px;
-    margin: 110px 50px 20;
-    border-radius: 50%;
+
+.third{
+   padding: 40px;
+   width: 20px;
+    height: 20px;
+    display: inline;
+    justify-content: space-between;
 }
-#second-3{
-    background-color: rgb(196, 196, 219);
-    margin: 110px 50px 20;
-    padding: 20px 2px 0px 2px;
+.three-images{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.three-images p{
+ text-align: center;
+}
+
+/*#pink{
+    display: inline;
+    margin: 0;
 }
