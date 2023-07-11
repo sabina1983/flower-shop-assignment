@@ -19,11 +19,20 @@
     padding: 20px 43px;
 
 }
+.pink{
+    background-color: #d58597;
+}
+.flower{
+
+}
+.tree{
+
+}
 header{
     display: flex;
     padding: 60px 10px 0 100px;
 }
-img{
+ header img{
    padding-left: 200px;
   width: 600px;
   height: 600px;
@@ -36,7 +45,7 @@ header{
 }
 button{
     background-color: #E55473;
-    padding: 43px 20;
+    padding: 10px 20px;
 }
 /*second part style*/
 .second-part{
@@ -51,34 +60,60 @@ button{
     text-align: center;
    
 }
-#Pink{
-    margin: 20px center;
-}
-.second-1{
-    background-color: rgb(237, 191, 199);
+.Pink{
+    background-color: #d58597;
     width: 310px;
     height: 428px;
     margin: relative;
     border-radius: 50% 50% 0 0;
     padding: 30px 20px 0;
+}
+.Flower{
+    background-color: rgb(158, 208, 191);
+    width: 310px;
+    height: 428px;
+    margin: relative;
+    border-radius: 50% 50% 0 0;
+    padding: 30px 20px 0;
+}
+.Tree{
+    background-color: rgb(203, 203, 212);
+    width: 310px;
+    height: 428px;
+    margin: relative;
+    border-radius: 50% 50% 0 0;
+    padding: 30px 20px 0;
+}
 
+.three-images p{
+    text-align: center;
+    text-decoration: underline;
 }
 
 
-.three-images{
+.three-images {
     display: flex;
     gap: 20px;
     justify-content: center;
 }
-#third{
+#third-part img{
+    width: 50px;
+    height: 50px;
+    
+    margin:0 auto;
+    
+    
+}
+#third-part{
     display: flex;
-    gap: 20px;
+    gap: 90px;
     justify-content: center;
     padding: 40px;
-    width: 20px;
-     height: 20px;
-     display: flex;
+    text-align: center;
 }
+
+
+
 .three-images p{
  text-align: center;
  text-decoration: underline;
