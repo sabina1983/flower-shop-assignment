@@ -1,5 +1,5 @@
 /*nav related style*/
-Nav{
+/*Nav{
    font-size: 30px; 
     display: flex;
     margin-top: 100px;
@@ -8,11 +8,12 @@ Nav{
    
     /*margime: 197px 972px 365px 240px;*/
     
-}
 #first-part{
     margin: 100px;
 }
-
+.use-of-flower{
+    font-size: 60px;
+}
 .Shop{
     margin: 32px;
     padding: 20px 43px;
@@ -20,12 +21,13 @@ Nav{
 }
 header{
     display: flex;
+    padding: 60px 10px 0 100px;
 }
 img{
-   
-  width: 400px;
-  height: 400px;
-  
+   padding-left: 200px;
+  width: 600px;
+  height: 600px;
+  margin-bottom: 0;
     justify-content: space-between;
 }
 header{
@@ -59,24 +61,27 @@ button{
     margin: relative;
     border-radius: 50% 50% 0 0;
     padding: 30px 20px 0;
-    
 
 }
 
-.third{
-   padding: 40px;
-   width: 20px;
-    height: 20px;
-    display: inline;
-    justify-content: space-between;
-}
+
 .three-images{
     display: flex;
     gap: 20px;
     justify-content: center;
 }
+#third{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 40px;
+    width: 20px;
+     height: 20px;
+     display: flex;
+}
 .three-images p{
  text-align: center;
+ text-decoration: underline;
 }
 
 /*#pink{
