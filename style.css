@@ -1,0 +1,72 @@
+/*nav related style*/
+Nav{
+   /* font-size: 30px;
+    display: flex;
+    margin-top: 100px;
+    margin-right: 972px;
+    margin-left: 240px;
+   
+    /*margime: 197px 972px 365px 240px;*/
+    
+}
+
+.Shop{
+    margin: 32px;
+    padding: 20px 43px;
+
+}
+header{
+    display: flex;
+}
+img{
+   
+  width: 400px;
+  height: 400px;
+  
+    justify-content: space-between;
+}
+header{
+    background-color:  rgba(229, 84, 115, 0.10);
+
+}
+button{
+    background-color: #E55473;
+    padding: 43px 20;
+}
+/*second part style*/
+.second-part{
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+#second-paragraph{
+    text-align: center;
+   
+}
+.Pink Flower Tree{
+    margine: 20px center;
+}
+#second-1{
+    background-color: rgb(237, 191, 199);
+    width: 310px;
+    height: 428px;
+    margin: relative;
+    border-radius: 25%;
+    
+
+}
+#second-2{
+    background-color: rgb(165, 228, 207);
+    width: 310px;
+    height: 428px;
+    margin: 110px 50px 20;
+    border-radius: 50%;
+}
+#second-3{
+    background-color: rgb(196, 196, 219);
+    margin: 110px 50px 20;
+    padding: 20px 2px 0px 2px;
+}
