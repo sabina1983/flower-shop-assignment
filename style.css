@@ -28,11 +28,11 @@ header{
     justify-content: space-between;
 }
 header{
-    background-color:  rgba(229, 84, 115, 0.10);
+    background-color:  rgba(211, 149, 162, 0.1);
 }
-button{
+.Shop{
     background-color: #E55473;
-    padding: 10px 20px;
+    padding: 5px 10px;
 }
 /*second part style*/
 .second-part{
@@ -47,7 +47,7 @@ button{
     text-align: center;
 }
 .Pink{
-    background-color: #d58597;
+    background-color: #ebdcdf;
     width: 310px;
     height: 428px;
     margin: relative;
@@ -55,7 +55,7 @@ button{
     padding: 30px 20px 0;
 }
 .Flower{
-    background-color: rgb(158, 208, 191);
+    background-color: rgb(186, 199, 194);
     width: 310px;
     height: 428px;
     margin: relative;
@@ -63,7 +63,7 @@ button{
     padding: 30px 20px 0;
 }
 .Tree{
-    background-color: rgb(203, 203, 212);
+    background-color: rgb(207, 207, 226);
     width: 310px;
     height: 428px;
     margin: relative;
@@ -95,5 +95,16 @@ button{
  text-align: center;
  text-decoration: underline;
 }
-
-
+.insta{
+    text-align: center;
+}
+.third-paragraph{
+    text-align: center;
+}
+.pink rose{
+    margin: 25px 100px 25px 100px;
+    display: flex;
+    width: 342px;
+    height: 396px;
+    
+}
