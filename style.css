@@ -95,16 +95,23 @@ header{
  text-align: center;
  text-decoration: underline;
 }
+#offer{
+    text-align: center;
+}
 .insta{
     text-align: center;
 }
 .third-paragraph{
     text-align: center;
 }
-.pink rose{
-    margin: 25px 100px 25px 100px;
+.pink-rose{
     display: flex;
-    width: 342px;
-    height: 396px;
-    
+    margin: 25px 100px 25px 100px;
+    gap: 5px;
+    width: 250px;
+    height: 300px;
+    justify-content: space-between;
+}
+.deals{
+    text-align: center;
 }
