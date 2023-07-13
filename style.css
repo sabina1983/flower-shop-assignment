@@ -50,38 +50,32 @@ header{
     height: 428px;
     margin: relative;
     border-radius: 50% 50% 0 0;
-    padding: 30px 20px 0;
-}
+    padding: 30px 20px 0;}
 .Flower{
     background-color: rgb(186, 199, 194);
     width: 310px;
     height: 428px;
     margin: relative;
     border-radius: 50% 50% 0 0;
-    padding: 30px 20px 0;
-}
+    padding: 30px 20px 0;}
 .Tree{
     background-color: rgb(207, 207, 226);
     width: 310px;
     height: 428px;
     margin: relative;
     border-radius: 50% 50% 0 0;
-    padding: 30px 20px 0;
-}
+    padding: 30px 20px 0;}
 .three-images p{
     text-align: center;
-    text-decoration: underline;
-}
+    text-decoration: underline;}
 .three-images {
     display: flex;
     gap: 20px;
-    justify-content: center;
-}
+    justify-content: center;}
 #third-part img{
     width: 50px;
     height: 50px;
-    margin:0 auto;
-    }
+    margin:0 auto;}
 #third-part{
     display: flex;
     gap: 90px;
@@ -90,34 +84,25 @@ header{
     text-align: center;
     background-color: rgba(39, 39, 39, 0.05);
     border: 70px;
-    margin: 30px 200px;
-    
-}
+    margin: 30px 200px;}
 .three-images p{
  text-align: center;
- text-decoration: underline;
-}
+ text-decoration: underline;}
 #offer{
-    text-align: center;
     background-color: rgb(245, 241, 242);
-    padding: 20px 20px;
-    font-size: 18px;
-    line-height: 30px;
+    padding: 30px 30px;
+    border: 30px 30px;
+    margin: 70px 30px 70px 80px;
     display: flex;
-    justify-content: center;
-    align-items: center;
-}
+    font-size: 18px;}
 #sign-in{
     background-color: #E55473;
-}
-.discount{
-    text-align: center;
-
-    
-}
+} 
 #offer .flower-vase{
-    align-items: center;
-    margin: 80px 90px 30px 150px;
+    margin: 30px 90px 30px 100px;
+    display: flex;}
+#offer .discount{
+    
 }
 .insta{
     text-align: center
@@ -139,7 +124,8 @@ header{
     background-image: url(Flower-Asset/Rectangle\ 9.png );
     padding: 90px 200px;
     text-align: center;
-    margin: 0px auto;
+    margin: 30px 200px;
+    border: ; 
     
 }
 .input-field .email{
