@@ -135,10 +135,24 @@ header{
     background-image: url(Flower-Asset/Rectangle\ 9.png );
   padding: 90px 0px;
   text-align: center;
-
 }
+button{
+    background-color: #E55473;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+/* .input-field .input{ */
+    /* width: 700px; */
+    /* height: 64px; */
 #deals-id{
     text-align: center;
+}
+.deal{
+    font-size: 40px;
+    font-style: normal;
 }
 .flower{
     color: #E55473;
