@@ -15,6 +15,8 @@
 .Shop{
     margin: 32px;
     padding: 20px 43px;
+    background-color: #E55473;
+    padding: 5px 10px;
 }
 header{
     display: flex;
@@ -30,10 +32,7 @@ header{
 header{
     background-color:  rgba(211, 149, 162, 0.1);
 }
-.Shop{
-    background-color: #E55473;
-    padding: 5px 10px;
-}
+
 /*second part style*/
 .second-part{
     text-align: center;
@@ -97,20 +96,42 @@ header{
 }
 #offer{
     text-align: center;
+    background-color: rgb(245, 241, 242);
+    padding: 100px 100px 100px 100px; 
+    margin-left: 100px;
+    padding: 20px 20px;
+    font-size: 18px;
+    line-height: 30px;
+    display: flex;
+}
+#sign-in{
+    background-color: #E55473;
+}
+.discount{
+    text-align: center;
+    margin-left: 0px;
+}
+#offer .flower-vase{
+    align-items: center;
+    margin: 30px 90px 30px 150px;
 }
 .insta{
     text-align: center;
+    
 }
 .third-paragraph{
     text-align: center;
 }
 .pink-rose{
     display: flex;
-    margin: 25px 100px 25px 100px;
+    margin: 25px 50px 25px 50px;
     gap: 5px;
-    width: 250px;
+    /* width: 250px; */
     height: 300px;
     justify-content: space-between;
+    float: left;
+    width:15%;
+    padding: 5px;
 }
 .deals{
     text-align: center;
