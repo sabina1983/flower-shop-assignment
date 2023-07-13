@@ -133,6 +133,7 @@ header{
     width:15%;
     padding: 5px;
 }
-.deals{
+#deals-id{
     text-align: center;
+}
 }
