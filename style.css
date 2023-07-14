@@ -85,7 +85,7 @@ header{
     background-color: rgba(39, 39, 39, 0.05);
     border: 70px;
     margin: 30px 200px;}
-.three-images p{
+.three-images .Pink{
  text-align: center;
  text-decoration: underline;}
 #offer{
@@ -109,9 +109,10 @@ header{
     color: #272727;
     font-size: 30px;
 }
-#offer .discount{
+#offer{
     border: 300px 0px 300px 0px;
     align-items: center;
+    margine: 100px; 
 }
 /* summer-offer started */
 #summer-offer{
@@ -136,6 +137,14 @@ header{
 }
 .pink-rose{
     height: 300px;
+}
+#summer-offer{
+    margin: 50px 250px 50px 200px;
+    padding-top: 30px;
+}
+.image{
+    margin-left: 35px;
+    border: 150px;
 }
 .pink-roses{
     display: flex;
